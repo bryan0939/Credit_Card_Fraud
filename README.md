@@ -159,8 +159,7 @@ Average Precision = **0.4412**
 
 ```
 ├── Credit_Card_Fraud.ipynb          # Full notebook with leakage diagnosis
-├── data/
-│   └── card_transdata.csv           # Dataset
+├── card_transdata.csv               # Dataset
 └── README.md                        # Project documentation
 ```
 
